@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Thirumalesh.
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+eat sleep code
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Pyhton is more famous for AI and i am intrested in Building AI, and it is easy to learn.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a python developer.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: Giving computer clear step by step instructions to solve a task
 
-Python is:
+Python is: A simple, beginner friendly and powerful programming languageused for web development,data analysis, automation and AI.
 
-In this track, I will learn:
+In this track, I will learn: python basics , working with data,building small projects etc
