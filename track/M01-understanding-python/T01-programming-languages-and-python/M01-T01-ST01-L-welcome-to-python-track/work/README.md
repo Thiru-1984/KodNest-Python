@@ -6,7 +6,7 @@ Thirumalesh.
 
 ## What I Learned in Foundation Month
 
-eat sleep code
+Algorithms and  pseudocode
 
 ## Why I Selected Python
 
